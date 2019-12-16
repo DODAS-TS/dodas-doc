@@ -64,7 +64,7 @@ You can get the basic CMS TOSCA template from [here](https://github.com/indigo-d
    13. **mem\_size\_lb**:
    14. **server\_image**: Image for the Virtual Machine to be used. NOTE all the recipes are validated for Ubuntu Xenial.  
 2. **IAM related configurations to enable the OIDC to X.509 certificate translation**
-   1. **iam\_token**: The token string obtained as explained [here](recipe-for-impatient-users.md#2-token-management)
+   1. **iam\_token**: The token string obtained as explained [here]()
    2. **Iam\_client\_id**: This must be provided \(once\) by DODAS admins
    3. **iam\_client\_secret**: This must be provided \(once\) by DODAS admins
 
@@ -89,5 +89,5 @@ config.Debug.extraJDL = [ '+DESIRED_Sites="T3_XX_XY_KK"','+JOB_CMSSite="T3_XX_XY
 
 There is no any other change you need to do. 
 
-Finally there is a basic Elastic Search monitoring system which can be used and extended to cope with user specific needs. This is detailed [here](../monitoring.md#monitoring-implementation).
+Finally there is a basic Elastic Search monitoring system which can be used and extended to cope with user specific needs. This is detailed [here]().
 
