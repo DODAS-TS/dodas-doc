@@ -45,7 +45,7 @@ nav:
   - Architecture: overview/architecture.md
   #- Schematic workflow: overview/workflow.md
 - The Enabling Facility: the-enabling-facility.md
-- [Technical documentation](https://dodas-ts.github.io/dodas-templates/)
+- Technical documentation: https://dodas-ts.github.io/dodas-templates/
 #- Supported solutions:
 #  - HTCondor cluster for CMS: supported-solutions/cms.md
 #  - HTCondor cluster for AMS: supported-solutions/ams.md
@@ -53,19 +53,19 @@ nav:
 #  - XCache on demad: supported-solutions/xcache.md
 #  - Spark analytics : supported-solutions/spark.md
 #- Getting Started:
-  #- Before starting:
-  #  - DODAS client installation:  getting-started/before-starting/dodas-client-installation.md
-  #  - DODAS client configuration: 
-  #    - Openstack providers: getting-started/before-starting/providers/os.md
-  #    - GCP: getting-started/before-starting/providers/gcp.md
-  #    - Azure: getting-started/before-starting/providers/azure.md
-  #    - AWS: getting-started/before-starting/providers/aws.md
-  #    - Bare Metal: getting-started/before-starting/providers/bare.md
-  #- Quick start: getting-started/quick-start.md
+#- Before starting:
+#  - DODAS client installation:  getting-started/before-starting/dodas-client-installation.md
+#  - DODAS client configuration: 
+#    - Openstack providers: getting-started/before-starting/providers/os.md
+#    - GCP: getting-started/before-starting/providers/gcp.md
+#    - Azure: getting-started/before-starting/providers/azure.md
+#    - AWS: getting-started/before-starting/providers/aws.md
+#    - Bare Metal: getting-started/before-starting/providers/bare.md
+#- Quick start: getting-started/quick-start.md
 - Tutorials:
     - HTCondor cluster for CMS: getting-started/tutorials/cms-recipe.md
     - HTCondor cluster for AMS: getting-started/tutorials/ams-recipe.md
-    - [Techincal doc tutorials](https://dodas-ts.github.io/dodas-templates/#quick-start)
+    - Techincal doc tutorials: https://dodas-ts.github.io/dodas-templates/#quick-start
     #- HTCondor generic use case: getting-started/tutorials/htc-recipe.md
     #- XCache on demad: getting-started/tutorials/xcache-recipe.md
     #- Spark analytics : getting-started/tutorials/spark-recipe.md
