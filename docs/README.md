@@ -1,5 +1,9 @@
 ![travis build](https://travis-ci.org/DODAS-TS/dodas-doc.svg?branch=master)
 
+> **TECHNICAL DOCUMENTATION IS UNDER CONTRUCTION**
+>
+> Please refer to https://dodas-ts.github.io/dodas-templates/ for it
+
 # Dynamic On Demand Analysis Service: DODAS
 
 Dynamic On Demand Analysis Service \(DODAS\) is a Platform as a Service tool built combining several solutions and products developed by the[**INDIGO-DataCloud**](https://www.indigo-datacloud.eu/) __H2020 project__ and now part of the [**EOSC-hub**](https://www.eosc-hub.eu/) **H2020 Project.**

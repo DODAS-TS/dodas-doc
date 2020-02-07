@@ -1,5 +1,9 @@
 # DODAS official documentation repository
 
+> **TECHNICAL DOCUMENTATION IS UNDER CONTRUCTION**
+>
+> Please refer to https://dodas-ts.github.io/dodas-templates/ for it
+
 Please visit [this page](https://dodas-ts.github.io/dodas-doc) to see the rendered web site.
 
 ## Render the page using Mkdocs
