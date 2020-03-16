@@ -8,6 +8,13 @@ DODAS allows to instantiate on-demand container-based clusters \(Apache Mesos\) 
 
 DODAS, as a [**Thematic Services** ](https://marketplace.eosc-hub.eu/thematic-services/92-dodas.html) in the context of EOSC-hub project, is financially supported by **European Union’s Horizon 2020 research and innovation programme, grant agreement RIA 777536.**
 
+## Acknowledgement
+
+**This work is co-funded by the EOSC-hub project (Horizon 2020) under Grant number 777536.**                                   
+
+EU logo     https://wiki.eosc-hub.eu/display/EOSC/Quality+Plan?preview=/1867786/4063268/eu%20logo.jpeg#QualityPlan-Acknowledgement                               
+EOSC hub logo     https://wiki.eosc-hub.eu/display/EOSC/Quality+Plan?preview=/18973612/18973785/eosc-hub-web.png#QualityPlan-Acknowledgement 
+
 ### Contributing
 
 If you want to contribute to this documentation:
