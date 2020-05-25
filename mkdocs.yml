@@ -1,8 +1,6 @@
 site_name: Dynamic On Demand Analysis Service 
 theme:
   name: material
-  logo:
-    icon: cloud_circle
   palette:
     primary: 'Blue'
     accent: 'Red'
@@ -19,23 +17,6 @@ extra:
 
 markdown_extensions: 
   - codehilite
-  - pymdownx.magiclink
-  - pymdownx.arithmatex
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
 
 nav:
 - Home: 'README.md'
