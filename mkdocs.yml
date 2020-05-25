@@ -1,6 +1,8 @@
 site_name: Dynamic On Demand Analysis Service 
 theme:
   name: material
+  icon:
+    logo: material/cloud
   palette:
     primary: 'Blue'
     accent: 'Red'
@@ -10,10 +12,8 @@ repo_url: 'https://github.com/DODAS-TS/dodas-doc'
 
 extra:
   social:
-    - type: 'github'
+    - icon: fontawesome/brands/github-alt
       link: 'https://github.com/DODAS-TS'
-    - type: 'slack'
-      link: 'https://dodas-infn.slack.com/archives/CAJ6VG71A'
 
 markdown_extensions: 
   - codehilite
